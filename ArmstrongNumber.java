@@ -27,6 +27,10 @@ public class ArmstrongNumber {
 		}
 	}
 	
+	public static void print() {
+		System.out.println("Armstrong Number");
+	}
+	
 	public static void main(String[] args) {
 		
 		isArmstrongNumber(153);
